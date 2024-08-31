@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f2f2f2;
+  }
+  
+  .container .card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 350px;
+  }
+  
+  .container .card-header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border-radius: 8px 8px 0 0;
+    text-align: center;
+  }
+  
+  .container .card-body {
+    padding: 15px;
+  }
+  
+  .container .list-group {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .container .list-group li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .container  .list-group li:last-child {
+    border-bottom: none;
+  }
+  
+  .container .list-group li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .container .list-group li a:hover {
+    text-decoration: underline;
+  }
+  
+  .container.card-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .container .card-text {
+    margin-top: 10px;
+  }
+  
+  .buten {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .buten:hover {
+    background-color: #3e8e41;
+  }

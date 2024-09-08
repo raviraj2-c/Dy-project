@@ -6,10 +6,11 @@ function Body() {
     
       <div className='header'>
       <div className="header-contents">
-        <h2>Order your favourite food here</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis iure omnis quo? Magni autem quo quisquam possimus natus laudantium, eligendi facere quae dolore.
+        <h2>Online Multispeciality Hospital</h2>
+        <p>Healthy living is difficult to implement, much less maintain. If you are like us and try your darndest to eat right, sleep enough, and properly hydrate. ...
         </p>
-        <button>view Menu</button>
+        <button><a className="nav-link" href="Contect">Contact Us</a></button>
+       
       </div>
     </div>
     

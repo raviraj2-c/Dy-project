@@ -2,7 +2,7 @@
     height: 42vw;
    
     margin: 30px auto;
-    background: black;
+    background-image: url(body2/bodybagpround.png);
     
     background-size: contain;
     position: relative;

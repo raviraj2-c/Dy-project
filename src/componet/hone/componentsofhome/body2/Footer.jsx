@@ -62,16 +62,17 @@ function Footer() {
       <div className="col-md-3">
         <h4>Quick Links</h4>
         <ul>
-          <li><a href="#">Pricing</a></li>
-          <li><a href="#">Resources</a></li>
-          <li><a href="#">Security</a></li>
-          <li><a href="#">Responsible Disclosure</a></li>
+          <li><a href="/">Home</a></li>
+          <li><a href="#">Book Appointment</a></li>
+          <li><a href="#">Product</a></li>
+          <li><a href="Medication">Medication</a></li>
+          <li><a href="About">About</a></li>
         </ul>
       </div>
       <div className="col-md-3">
         <h4>Support</h4>
         <ul>
-          <li><a href="#">Contact Us</a></li>
+          <li><a href="Contect">Contact Us</a></li>
         </ul>
       </div>
       <div className="col-md-3">
